@@ -7,7 +7,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Author::    Maksym Novozhylov (mnovozhilov@upwork.com)
+# Author::    Maksym Novozhylov (mnovozhilov@upwork.com) s lukasz dudizk chuj
 # Copyright:: Copyright 2020(c) Upwork.com
 # License::   See LICENSE.txt and TOS - https://developers.upwork.com/api-tos.html
 
